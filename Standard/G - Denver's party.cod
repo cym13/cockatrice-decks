@@ -15,12 +15,11 @@ Test</comments>
         <card number="3" name="Druid of the Cowl"/>
         <card number="4" name="Commune with Dinosaurs"/>
         <card number="4" name="Savage Stomp"/>
-        <card number="1" name="Channeler Initiate"/>
+        <card number="2" name="Channeler Initiate"/>
         <card number="2" name="Evolving Wilds"/>
         <card number="1" name="Mountain"/>
         <card number="3" name="Thrash of Raptors"/>
         <card number="1" name="Raging Swordtooth"/>
-        <card number="1" name="Pillar of Origins"/>
     </zone>
     <zone name="side">
         <card number="3" name="Liliana's Defeat"/>
