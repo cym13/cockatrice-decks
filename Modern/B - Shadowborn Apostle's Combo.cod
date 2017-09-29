@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>B - Shadowborn Apostle's Combo</deckname>
+    <comments>Modern
+
+From https://www.youtube.com/watch?v=rduv0p-p8Ms</comments>
+    <zone name="main">
+        <card number="4" name="Shelldock Isle"/>
+        <card number="4" name="Surgical Extraction"/>
+        <card number="4" name="Serum Powder"/>
+        <card number="4" name="Emrakul, the Aeons Torn"/>
+        <card number="4" name="Darkslick Shores"/>
+        <card number="1" name="Rune-Scarred Demon"/>
+        <card number="4" name="Watery Grave"/>
+        <card number="35" name="Shadowborn Apostle"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Extirpate"/>
+        <card number="2" name="Immortal Servitude"/>
+        <card number="4" name="Swamp"/>
+        <card number="3" name="Thrumming Stone"/>
+        <card number="1" name="Griselbrand"/>
+        <card number="1" name="Rune-Scarred Demon"/>
+    </zone>
+</cockatrice_deck>

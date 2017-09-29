@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>G - Collected Company Elves</deckname>
+    <comments>Modern
+
+From https://www.youtube.com/watch?v=TIQXfZiYJzE</comments>
+    <zone name="main">
+        <card number="4" name="Llanowar Elves"/>
+        <card number="4" name="Elvish Mystic"/>
+        <card number="4" name="Nettle Sentinel"/>
+        <card number="4" name="Elvish Visionary"/>
+        <card number="4" name="Elvish Archdruid"/>
+        <card number="2" name="Ezuri, Renegade Leader"/>
+        <card number="4" name="Heritage Druid"/>
+        <card number="4" name="Collected Company"/>
+        <card number="4" name="Chord of Calling"/>
+        <card number="2" name="Eternal Witness"/>
+        <card number="1" name="Mirror Entity"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Scavenging Ooze"/>
+        <card number="1" name="Spellskite"/>
+        <card number="3" name="Forest"/>
+        <card number="1" name="Elvish Champion"/>
+        <card number="1" name="Okina, Temple to the Grandfathers"/>
+        <card number="4" name="Nykthos, Shrine to Nyx"/>
+        <card number="4" name="Cavern of Souls"/>
+        <card number="4" name="Razorverge Thicket"/>
+        <card number="3" name="Horizon Canopy"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Melira, Sylvok Outcast"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Choke"/>
+        <card number="1" name="Phyrexian Revoker"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="2" name="Eternal Witness"/>
+        <card number="2" name="Spellskite"/>
+        <card number="2" name="Kitchen Finks"/>
+        <card number="2" name="Thrun, the Last Troll"/>
+        <card number="2" name="Fracturing Gust"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>G - Elf</deckname>
+    <comments>Pauper</comments>
+    <zone name="main">
+        <card number="2" name="Elvish Mystic"/>
+        <card number="2" name="Fyndhorn Elves"/>
+        <card number="4" name="Llanowar Elves"/>
+        <card number="3" name="Nettle Sentinel"/>
+        <card number="4" name="Quirion Ranger"/>
+        <card number="4" name="Elvish Visionary"/>
+        <card number="4" name="Priest of Titania"/>
+        <card number="2" name="Sylvan Ranger"/>
+        <card number="3" name="Wellwisher"/>
+        <card number="4" name="Llanowar Sentinel"/>
+        <card number="4" name="Timberwatch Elf"/>
+        <card number="17" name="Forest"/>
+        <card number="4" name="Slime Molding"/>
+        <card number="3" name="Presence of Gond"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Gleeful Sabotage"/>
+        <card number="2" name="Spidersilk Armor"/>
+        <card number="1" name="Sentinel Spider"/>
+        <card number="1" name="Wellwisher"/>
+        <card number="2" name="Karametra's Favor"/>
+        <card number="4" name="Distant Melody"/>
+        <card number="2" name="Viridian Longbow"/>
+        <card number="1" name="Nettle Sentinel"/>
+    </zone>
+</cockatrice_deck>

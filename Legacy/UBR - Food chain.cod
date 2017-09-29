@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UBR - Food chain</deckname>
+    <comments>Legacy
+
+Prof's own deck
+https://www.youtube.com/watch?v=fvi_xcDvg0Q</comments>
+    <zone name="main">
+        <card number="2" name="Genesis Hydra"/>
+        <card number="2" name="Vendilion Clique"/>
+        <card number="1" name="Noble Hierarch"/>
+        <card number="1" name="Misdirection"/>
+        <card number="4" name="Baleful Strix"/>
+        <card number="4" name="Abrupt Decay"/>
+        <card number="4" name="Deathrite Shaman"/>
+        <card number="4" name="Misthollow Griffin"/>
+        <card number="4" name="Food Chain"/>
+        <card number="1" name="Tidespout Tyrant"/>
+        <card number="4" name="Force of Will"/>
+        <card number="4" name="Brainstorm"/>
+        <card number="3" name="Manipulate Fate"/>
+        <card number="2" name="Polluted Delta"/>
+        <card number="4" name="Misty Rainforest"/>
+        <card number="4" name="Verdant Catacombs"/>
+        <card number="3" name="Tropical Island"/>
+        <card number="3" name="Underground Sea"/>
+        <card number="1" name="Bayou"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Island"/>
+        <card number="2" name="Jace, the Mind Sculptor"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Grafdigger's Cage"/>
+        <card number="2" name="Leyline of the Void"/>
+        <card number="2" name="Disfigure"/>
+        <card number="1" name="Golgari Charm"/>
+        <card number="2" name="Venser, Shaper Savant"/>
+        <card number="1" name="Emrakul, the Aeons Torn"/>
+        <card number="1" name="Karakas"/>
+        <card number="2" name="Umezawa's Jitte"/>
+        <card number="2" name="Impulse"/>
+    </zone>
+</cockatrice_deck>

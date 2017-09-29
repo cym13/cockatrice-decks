@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>B - Rats</deckname>
+    <comments>Pauper</comments>
+    <zone name="main">
+        <card number="3" name="Ravenous Rats"/>
+        <card number="3" name="Chittering Rats"/>
+        <card number="3" name="Crypt Rats"/>
+        <card number="2" name="Okiba-Gang Shinobi"/>
+        <card number="4" name="Swarm of Rats"/>
+        <card number="17" name="Swamp"/>
+        <card number="2" name="Polluted Mire"/>
+        <card number="4" name="Barren Moor"/>
+        <card number="4" name="Geth's Verdict"/>
+        <card number="2" name="Duress"/>
+        <card number="4" name="Sign in Blood"/>
+        <card number="4" name="Unearth"/>
+        <card number="3" name="Phyrexian Rager"/>
+        <card number="2" name="Doom Blade"/>
+        <card number="3" name="Dead Weight"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Echoing Decay"/>
+        <card number="2" name="Tendrils of Corruption"/>
+        <card number="3" name="Choking Sands"/>
+        <card number="2" name="Duress"/>
+        <card number="3" name="Ostracize"/>
+        <card number="2" name="Soul Reap"/>
+    </zone>
+</cockatrice_deck>

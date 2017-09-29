@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Copycat</deckname>
+    <comments>Modern
+
+http://tappedout.net/mtg-decks/copycat-2/</comments>
+    <zone name="main">
+        <card number="4" name="Clone"/>
+        <card number="4" name="Clone Shell"/>
+        <card number="3" name="Conundrum Sphinx"/>
+        <card number="2" name="It That Betrays"/>
+        <card number="1" name="Kozilek, Butcher of Truth"/>
+        <card number="4" name="Quicksilver Gargantuan"/>
+        <card number="4" name="Halimar Depths"/>
+        <card number="19" name="Island"/>
+        <card number="3" name="Deprive"/>
+        <card number="3" name="Diminish"/>
+        <card number="2" name="Negate"/>
+        <card number="2" name="Turn Aside"/>
+        <card number="3" name="Crystal Ball"/>
+        <card number="3" name="Mimic Vat"/>
+        <card number="3" name="Foresee"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Crystal Ball"/>
+        <card number="1" name="Deprive"/>
+        <card number="1" name="Diminish"/>
+        <card number="1" name="Emrakul, the Aeons Torn"/>
+        <card number="2" name="It That Betrays"/>
+        <card number="1" name="Kozilek, Butcher of Truth"/>
+        <card number="1" name="Mimic Vat"/>
+        <card number="2" name="Negate"/>
+        <card number="3" name="Preordain"/>
+        <card number="2" name="Turn Aside"/>
+    </zone>
+</cockatrice_deck>

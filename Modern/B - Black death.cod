@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>B - Black death</deckname>
+    <comments>Modern
+
+From https://www.youtube.com/watch?v=IHH1lUKSZjM
+</comments>
+    <zone name="main">
+        <card number="4" name="Bile Blight"/>
+        <card number="3" name="Phyrexian Obliterator"/>
+        <card number="4" name="Nyxathid"/>
+        <card number="4" name="Go for the Throat"/>
+        <card number="3" name="Arrogant Bloodlord"/>
+        <card number="4" name="Languish"/>
+        <card number="2" name="Archfiend of Depravity"/>
+        <card number="3" name="Killing Wave"/>
+        <card number="2" name="Squelching Leeches"/>
+        <card number="4" name="Eternal Thirst"/>
+        <card number="4" name="Gatekeeper of Malakir"/>
+        <card number="4" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="19" name="Swamp"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Virulent Plague"/>
+        <card number="3" name="Hero's Downfall"/>
+        <card number="2" name="Mutilate"/>
+        <card number="3" name="Inquisition of Kozilek"/>
+        <card number="3" name="Thoughtseize"/>
+        <card number="2" name="Tainted Strike"/>
+    </zone>
+</cockatrice_deck>

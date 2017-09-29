@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>5C - Slivers</deckname>
+    <comments>Modern
+
+From https://www.youtube.com/watch?v=X_hygb2AsWk</comments>
+    <zone name="main">
+        <card number="2" name="Blur Sliver"/>
+        <card number="1" name="Darkheart Sliver"/>
+        <card number="3" name="Diffusion Sliver"/>
+        <card number="4" name="Galerider Sliver"/>
+        <card number="1" name="Harmonic Sliver"/>
+        <card number="4" name="Manaweft Sliver"/>
+        <card number="2" name="Necrotic Sliver"/>
+        <card number="4" name="Predatory Sliver"/>
+        <card number="4" name="Sedge Sliver"/>
+        <card number="1" name="Sentinel Sliver"/>
+        <card number="4" name="Sinew Sliver"/>
+        <card number="1" name="Spellskite"/>
+        <card number="1" name="Syphon Sliver"/>
+        <card number="4" name="Aether Vial"/>
+        <card number="4" name="Collected Company"/>
+        <card number="4" name="Cavern of Souls"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="4" name="Mutavault"/>
+        <card number="2" name="Overgrown Tomb"/>
+        <card number="4" name="Sliver Hive"/>
+        <card number="3" name="Verdant Catacombs"/>
+        <card number="1" name="Watery Grave"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Cautery Sliver"/>
+        <card number="2" name="Frenetic Sliver"/>
+        <card number="2" name="Harmonic Sliver"/>
+        <card number="1" name="Homing Sliver"/>
+        <card number="1" name="Leeching Sliver"/>
+        <card number="1" name="Sliver Hivelord"/>
+        <card number="2" name="Spellskite"/>
+        <card number="1" name="Syphon Sliver"/>
+        <card number="1" name="Telekinetic Sliver"/>
+        <card number="3" name="Warping Wail"/>
+    </zone>
+</cockatrice_deck>

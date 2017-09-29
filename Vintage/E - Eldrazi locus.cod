@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>E - Eldrazi Locus</deckname>
+    <comments>Vintage
+
+From http://tappedout.net/mtg-decks/eldrazi-locus-deck/</comments>
+    <zone name="main">
+        <card number="4" name="Artisan of Kozilek"/>
+        <card number="1" name="Emrakul, the Aeons Torn"/>
+        <card number="2" name="It That Betrays"/>
+        <card number="1" name="Kozilek, Butcher of Truth"/>
+        <card number="4" name="Overgrown Battlement"/>
+        <card number="1" name="Ulamog, the Infinite Gyre"/>
+        <card number="4" name="Ulamog's Crusher"/>
+        <card number="4" name="Cloudpost"/>
+        <card number="2" name="Eldrazi Temple"/>
+        <card number="8" name="Forest"/>
+        <card number="2" name="Glimmerpost"/>
+        <card number="4" name="Vesuva"/>
+        <card number="2" name="All Is Dust"/>
+        <card number="4" name="Sylvan Scrying"/>
+        <card number="2" name="Amulet of Vigor"/>
+        <card number="4" name="Expedition Map"/>
+        <card number="3" name="Prophetic Prism"/>
+        <card number="4" name="Living Destiny"/>
+        <card number="2" name="Not of This World"/>
+        <card number="2" name="Pathrazer of Ulamog"/>
+    </zone>
+</cockatrice_deck>

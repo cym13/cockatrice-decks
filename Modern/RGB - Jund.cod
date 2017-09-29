@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Jund</deckname>
+    <comments>Modern
+
+https://www.youtube.com/watch?v=veTZH5UzJUY</comments>
+    <zone name="main">
+        <card number="4" name="Tarmogoyf"/>
+        <card number="4" name="Dark Confidant"/>
+        <card number="3" name="Scavenging Ooze"/>
+        <card number="2" name="Kalitas, Traitor of Ghet"/>
+        <card number="4" name="Inquisition of Kozilek"/>
+        <card number="2" name="Thoughtseize"/>
+        <card number="4" name="Lightning Bolt"/>
+        <card number="2" name="Abrupt Decay"/>
+        <card number="3" name="Terminate"/>
+        <card number="2" name="Kolaghan's Command"/>
+        <card number="4" name="Liliana of the Veil"/>
+        <card number="2" name="Maelstrom Pulse"/>
+        <card number="3" name="Raging Ravine"/>
+        <card number="4" name="Blackcleave Cliffs"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="4" name="Verdant Catacombs"/>
+        <card number="4" name="Bloodstained Mire"/>
+        <card number="2" name="Overgrown Tomb"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="2" name="Swamp"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Wooded Foothills"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Kolaghan's Command"/>
+        <card number="1" name="Thrun, the Last Troll"/>
+        <card number="1" name="Engineered Explosives"/>
+        <card number="2" name="Ancient Grudge"/>
+        <card number="2" name="Anger of the Gods"/>
+        <card number="2" name="Obstinate Baloth"/>
+        <card number="2" name="Kitchen Finks"/>
+        <card number="2" name="Fulminator Mage"/>
+        <card number="1" name="Night of Souls' Betrayal"/>
+        <card number="1" name="Nihil Spellbomb"/>
+    </zone>
+</cockatrice_deck>

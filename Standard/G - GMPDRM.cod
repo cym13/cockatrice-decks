@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>G - GMPDRM</deckname>
+    <comments>Standard
+
+From 
+</comments>
+    <zone name="main">
+        <card number="2" name="Deadlock Trap"/>
+        <card number="4" name="Architect of the Untamed"/>
+        <card number="3" name="Bristling Hydra"/>
+        <card number="4" name="Electrostatic Pummeler"/>
+        <card number="4" name="Longtusk Cub"/>
+        <card number="4" name="Sage of Shaila's Claim"/>
+        <card number="4" name="Servant of the Conduit"/>
+        <card number="3" name="Blossoming Defense"/>
+        <card number="4" name="Aether Hub"/>
+        <card number="17" name="Forest"/>
+        <card number="4" name="Attune with Aether"/>
+        <card number="4" name="Larger Than Life"/>
+        <card number="3" name="Channeler Initiate"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Heroic Intervention"/>
+        <card number="3" name="Nature's Way"/>
+        <card number="3" name="Prowling Serpopard"/>
+        <card number="2" name="Deadlock Trap"/>
+        <card number="3" name="Woodweaver's Puzzleknot"/>
+        <card number="1" name="Blossoming Defense"/>
+    </zone>
+</cockatrice_deck>

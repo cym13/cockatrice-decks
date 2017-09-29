@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>BR - Fling burn</deckname>
+    <comments>Modern
+
+Test</comments>
+    <zone name="main">
+        <card number="3" name="Hunted Horror"/>
+        <card number="4" name="Cryptborn Horror"/>
+        <card number="4" name="Rite of Consumption"/>
+        <card number="4" name="Fling"/>
+        <card number="4" name="Lightning Bolt"/>
+        <card number="4" name="Aether Vial"/>
+        <card number="4" name="Fatal Push"/>
+        <card number="4" name="Ball Lightning"/>
+        <card number="4" name="Rift Bolt"/>
+        <card number="4" name="Dragonskull Summit"/>
+        <card number="4" name="Blackcleave Cliffs"/>
+        <card number="3" name="Mountain"/>
+        <card number="2" name="Swamp"/>
+        <card number="4" name="Smoldering Marsh"/>
+        <card number="4" name="Reanimate"/>
+        <card number="4" name="Vexing Devil"/>
+    </zone>
+</cockatrice_deck>

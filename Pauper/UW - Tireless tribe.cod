@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>UW - Tireless tribe</deckname>
+    <comments>Pauper
+
+From http://www.hipstersofthecoast.com/2015/12/bringing-to-light-pauper-tireless-tribe-combo/</comments>
+    <zone name="main">
+        <card number="3" name="Benevolent Bodyguard"/>
+        <card number="4" name="Delver of Secrets"/>
+        <card number="4" name="Tireless Tribe"/>
+        <card number="4" name="Squadron Hawk"/>
+        <card number="1" name="Mulldrifter"/>
+        <card number="4" name="Brainstorm"/>
+        <card number="1" name="Dispel"/>
+        <card number="2" name="Gitaxian Probe"/>
+        <card number="3" name="Preordain"/>
+        <card number="3" name="Shadow Rift"/>
+        <card number="1" name="Apostle's Blessing"/>
+        <card number="4" name="Inside Out"/>
+        <card number="4" name="Journey to Nowhere"/>
+        <card number="2" name="Deep Analysis"/>
+        <card number="1" name="Gush"/>
+        <card number="4" name="Evolving Wilds"/>
+        <card number="5" name="Island"/>
+        <card number="6" name="Plains"/>
+        <card number="4" name="Tranquil Cove"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Dispel"/>
+        <card number="2" name="Hydroblast"/>
+        <card number="2" name="Sunlance"/>
+        <card number="1" name="Circle of Protection: Red"/>
+        <card number="2" name="Rest for the Weary"/>
+        <card number="2" name="Dust to Dust"/>
+        <card number="2" name="Prismatic Strands"/>
+        <card number="2" name="Stormbound Geist"/>
+    </zone>
+</cockatrice_deck>

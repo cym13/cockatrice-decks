@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Green</deckname>
+    <comments>Rookie deck from Cardkingdom
+https://www.mtggoldfish.com/deck/654653</comments>
+    <zone name="main">
+        <card number="4" name="Canopy Spider"/>
+        <card number="4" name="Garruk's Companion"/>
+        <card number="4" name="Runeclaw Bear"/>
+        <card number="4" name="Swordwise Centaur"/>
+        <card number="4" name="Sylvan Ranger"/>
+        <card number="4" name="Stampeding Rhino"/>
+        <card number="2" name="Craw Wurm"/>
+        <card number="4" name="Larger Than Life"/>
+        <card number="4" name="Rampant Growth"/>
+        <card number="2" name="Blanchwood Armor"/>
+        <card number="24" name="Forest"/>
+    </zone>
+</cockatrice_deck>

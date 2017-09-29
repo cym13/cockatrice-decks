@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>B+ - Fearless Dredge</deckname>
+    <comments>Legacy
+
+From https://www.youtube.com/watch?v=owKYK7yXBzI</comments>
+    <zone name="main">
+        <card number="4" name="Careful Study"/>
+        <card number="4" name="Narcomoeba"/>
+        <card number="4" name="Breakthrough"/>
+        <card number="4" name="Cabal Therapy"/>
+        <card number="4" name="Putrid Imp"/>
+        <card number="4" name="Golgari Thug"/>
+        <card number="4" name="Stinkweed Imp"/>
+        <card number="4" name="Bridge from Below"/>
+        <card number="4" name="Ichorid"/>
+        <card number="4" name="Faithless Looting"/>
+        <card number="4" name="Golgari Grave-Troll"/>
+        <card number="4" name="Cephalid Coliseum"/>
+        <card number="4" name="Mana Confluence"/>
+        <card number="4" name="Gemstone Mine"/>
+        <card number="4" name="Lion's Eye Diamond"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Leyline of the Void"/>
+        <card number="4" name="Nature's Claim"/>
+        <card number="3" name="Firestorm"/>
+        <card number="2" name="Dread Return"/>
+        <card number="1" name="Elesh Norn, Grand Cenobite"/>
+        <card number="1" name="Ashen Rider"/>
+    </zone>
+</cockatrice_deck>

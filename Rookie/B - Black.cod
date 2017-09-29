@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Black</deckname>
+    <comments>Rookie deck by cardkingdom
+
+https://www.mtggoldfish.com/deck/654639</comments>
+    <zone name="main">
+        <card number="4" name="Typhoid Rats"/>
+        <card number="4" name="Hand of Silumgar"/>
+        <card number="4" name="Ravenous Rats"/>
+        <card number="4" name="Spineless Thug"/>
+        <card number="4" name="Walking Corpse"/>
+        <card number="4" name="Liliana's Shade"/>
+        <card number="4" name="Death Stroke"/>
+        <card number="4" name="Vicious Hunger"/>
+        <card number="4" name="Mind Rot"/>
+        <card number="24" name="Swamp"/>
+    </zone>
+</cockatrice_deck>

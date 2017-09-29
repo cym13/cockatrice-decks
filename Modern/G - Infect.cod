@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Modern infect</deckname>
+    <comments>From https://www.youtube.com/watch?v=0pLmUF6mnIU, modified</comments>
+    <zone name="main">
+        <card number="4" name="Glistener Elf"/>
+        <card number="4" name="Blight Mamba"/>
+        <card number="4" name="Necropede"/>
+        <card number="4" name="Ichorclaw Myr"/>
+        <card number="4" name="Giant Growth"/>
+        <card number="4" name="Vines of Vastwood"/>
+        <card number="4" name="Mutagenic Growth"/>
+        <card number="4" name="Groundswell"/>
+        <card number="4" name="Apostle's Blessing"/>
+        <card number="1" name="Become Immense"/>
+        <card number="15" name="Forest"/>
+        <card number="4" name="Rancor"/>
+        <card number="4" name="Inkmoth Nexus"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Might of Old Krosa"/>
+        <card number="2" name="Blossoming Defense"/>
+        <card number="1" name="Become Immense"/>
+        <card number="4" name="Wild Defiance"/>
+        <card number="4" name="Predator's Strike"/>
+    </zone>
+</cockatrice_deck>

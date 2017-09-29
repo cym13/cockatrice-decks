@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>GB - Infect</deckname>
+    <comments>Pauper</comments>
+    <zone name="main">
+        <card number="4" name="Plague Stinger"/>
+        <card number="4" name="Glistener Elf"/>
+        <card number="4" name="Flensermite"/>
+        <card number="4" name="Gitaxian Probe"/>
+        <card number="4" name="Apostle's Blessing"/>
+        <card number="4" name="Vampire's Bite"/>
+        <card number="4" name="Giant Growth"/>
+        <card number="4" name="Groundswell"/>
+        <card number="3" name="Unnatural Predation"/>
+        <card number="4" name="Mutagenic Growth"/>
+        <card number="4" name="Ichorclaw Myr"/>
+        <card number="8" name="Swamp"/>
+        <card number="9" name="Forest"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Seal of Strength"/>
+    </zone>
+</cockatrice_deck>

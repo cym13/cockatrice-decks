@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Zombie hunt combo</deckname>
+    <comments>https://www.youtube.com/watch?v=0UQog3R3o_M</comments>
+    <zone name="main">
+        <card number="4" name="Treasure Hunt"/>
+        <card number="2" name="Zombie Infestation"/>
+        <card number="4" name="Contested War Zone"/>
+        <card number="16" name="Island"/>
+        <card number="4" name="Reliquary Tower"/>
+        <card number="14" name="Swamp"/>
+        <card number="4" name="Watery Grave"/>
+        <card number="4" name="Drowned Catacomb"/>
+        <card number="4" name="Temple of Deceit"/>
+        <card number="4" name="River of Tears"/>
+    </zone>
+</cockatrice_deck>

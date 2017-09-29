@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>R - Ixalan burn</deckname>
+    <comments>Standard
+
+Test</comments>
+    <zone name="main">
+        <card number="4" name="Shock"/>
+        <card number="3" name="Kari Zev, Skyship Raider"/>
+        <card number="4" name="Firebrand Archer"/>
+        <card number="4" name="Abrade"/>
+        <card number="4" name="Harsh Mentor"/>
+        <card number="4" name="Lightning Strike"/>
+        <card number="4" name="Firecannon Blast"/>
+        <card number="4" name="Charging Monstrosaur"/>
+        <card number="3" name="Chandra, Torch of Defiance"/>
+        <card number="4" name="Hungry Flames"/>
+        <card number="18" name="Mountain"/>
+        <card number="4" name="Vance's Blasting Cannons"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Field of Ruin"/>
+        <card number="3" name="Deadlock Trap"/>
+        <card number="4" name="Rampaging Ferocidon"/>
+        <card number="3" name="Hijack"/>
+        <card number="2" name="Insult // Injury"/>
+    </zone>
+</cockatrice_deck>

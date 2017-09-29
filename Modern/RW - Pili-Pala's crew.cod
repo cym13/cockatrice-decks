@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>RW - Pili-Pala's crew</deckname>
+    <comments>Modern
+
+Test</comments>
+    <zone name="main">
+        <card number="4" name="Order of Whiteclay"/>
+        <card number="3" name="Hateflayer"/>
+        <card number="4" name="Silkbind Faerie"/>
+        <card number="4" name="Patrol Signaler"/>
+        <card number="4" name="Smuggler's Copter"/>
+        <card number="4" name="Cultivator's Caravan"/>
+        <card number="4" name="Ovalchase Dragster"/>
+        <card number="4" name="Start Your Engines"/>
+        <card number="4" name="Lightning Bolt"/>
+        <card number="4" name="Path to Exile"/>
+        <card number="5" name="Plains"/>
+        <card number="4" name="Mountain"/>
+        <card number="4" name="Inspiring Vantage"/>
+        <card number="4" name="Sacred Foundry"/>
+        <card number="4" name="Puresight Merrow"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Apostle's Blessing"/>
+        <card number="4" name="Lightning Helix"/>
+        <card number="3" name="Deflecting Palm"/>
+        <card number="4" name="Boros Charm"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>U - Blue mill</deckname>
+    <comments>Modern
+
+Test</comments>
+    <zone name="main">
+        <card number="4" name="Fraying Sanity"/>
+        <card number="4" name="Startled Awake"/>
+        <card number="4" name="Tome Scour"/>
+        <card number="3" name="Jace, Memory Adept"/>
+        <card number="4" name="Dispel"/>
+        <card number="14" name="Island"/>
+        <card number="4" name="Halimar Depths"/>
+        <card number="4" name="Mana Leak"/>
+        <card number="4" name="Fog Bank"/>
+        <card number="4" name="Mind Sculpt"/>
+        <card number="3" name="Memory Erosion"/>
+        <card number="4" name="Archive Trap"/>
+        <card number="4" name="Ipnu Rivulet"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Cancel"/>
+        <card number="3" name="Psychic Surgery"/>
+        <card number="4" name="Surgical Extraction"/>
+        <card number="4" name="Dreamborn Muse"/>
+    </zone>
+</cockatrice_deck>

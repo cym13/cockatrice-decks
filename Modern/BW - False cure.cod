@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>BW - False cure</deckname>
+    <comments>Modern
+
+Test</comments>
+    <zone name="main">
+        <card number="4" name="Tainted Remedy"/>
+        <card number="4" name="Inquisition of Kozilek"/>
+        <card number="4" name="Thoughtseize"/>
+        <card number="4" name="Rest for the Weary"/>
+        <card number="4" name="Blessed Alliance"/>
+        <card number="3" name="Wall of Shards"/>
+        <card number="4" name="Shambling Vent"/>
+        <card number="4" name="Concealed Courtyard"/>
+        <card number="3" name="Plains"/>
+        <card number="2" name="Swamp"/>
+        <card number="4" name="Godless Shrine"/>
+        <card number="4" name="Temple of Silence"/>
+        <card number="4" name="Path to Exile"/>
+        <card number="4" name="Fatal Push"/>
+        <card number="4" name="Doom Blade"/>
+        <card number="1" name="Liliana Vess"/>
+        <card number="3" name="Gideon of the Trials"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Seal of Cleansing"/>
+        <card number="4" name="Apostle's Blessing"/>
+        <card number="3" name="Leyline of Sanctity"/>
+        <card number="4" name="Blind Obedience"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>G - Squirrels</deckname>
+    <comments>Kitchen table
+
+From https://www.youtube.com/watch?v=CXlfUKaqCp4</comments>
+    <zone name="main">
+        <card number="4" name="Deranged Hermit"/>
+        <card number="2" name="Adaptive Automaton"/>
+        <card number="3" name="Squirrel Mob"/>
+        <card number="4" name="Arbor Elf"/>
+        <card number="2" name="Liege of the Hollows"/>
+        <card number="3" name="Acorn Harvest"/>
+        <card number="4" name="Chatter of the Squirrel"/>
+        <card number="2" name="Parallel Evolution"/>
+        <card number="2" name="Tribal Unity"/>
+        <card number="4" name="Squirrel Nest"/>
+        <card number="4" name="Wild Growth"/>
+        <card number="2" name="Druid's Call"/>
+        <card number="2" name="Beastmaster Ascension"/>
+        <card number="16" name="Forest"/>
+        <card number="4" name="Swarmyard"/>
+        <card number="2" name="Deserted Temple"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Earthcraft"/>
+        <card number="4" name="Sylvan Library"/>
+        <card number="4" name="Squirrel Wrangler"/>
+        <card number="3" name="Life from the Loam"/>
+    </zone>
+</cockatrice_deck>

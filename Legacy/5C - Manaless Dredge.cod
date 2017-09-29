@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>5C - Manaless Dredge</deckname>
+    <comments>Legacy
+
+From https://www.youtube.com/watch?v=SY80PoKz0Gk</comments>
+    <zone name="main">
+        <card number="4" name="Gitaxian Probe"/>
+        <card number="4" name="Cabal Therapy"/>
+        <card number="4" name="Narcomoeba"/>
+        <card number="4" name="Golgari Thug"/>
+        <card number="3" name="Nether Shadow"/>
+        <card number="4" name="Stinkweed Imp"/>
+        <card number="4" name="Bridge from Below"/>
+        <card number="4" name="Prized Amalgam"/>
+        <card number="2" name="Shambling Shell"/>
+        <card number="1" name="Whirlpool Drake"/>
+        <card number="2" name="Balustrade Spy"/>
+        <card number="4" name="Ichorid"/>
+        <card number="4" name="Dread Return"/>
+        <card number="4" name="Street Wraith"/>
+        <card number="4" name="Golgari Grave-Troll"/>
+        <card number="1" name="Flayer of the Hatebound"/>
+        <card number="4" name="Phantasmagorian"/>
+        <card number="3" name="Chancellor of the Annex"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Contagion"/>
+        <card number="4" name="Force of Will"/>
+        <card number="3" name="Faerie Macabre"/>
+        <card number="1" name="Dakmor Salvage"/>
+        <card number="1" name="Ashen Rider"/>
+        <card number="1" name="Progenitus"/>
+        <card number="3" name="Leyline of Sanctity"/>
+    </zone>
+</cockatrice_deck>
