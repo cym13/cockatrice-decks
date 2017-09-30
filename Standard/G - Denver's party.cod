@@ -18,14 +18,14 @@ Test</comments>
         <card number="2" name="Channeler Initiate"/>
         <card number="2" name="Evolving Wilds"/>
         <card number="1" name="Mountain"/>
-        <card number="3" name="Thrash of Raptors"/>
         <card number="1" name="Raging Swordtooth"/>
+        <card number="3" name="Grazing Whiptail"/>
     </zone>
     <zone name="side">
         <card number="3" name="Liliana's Defeat"/>
         <card number="3" name="Chandra's Defeat"/>
         <card number="3" name="Gideon's Defeat"/>
         <card number="3" name="Jace's Defeat"/>
-        <card number="3" name="Nissa's Defeat"/>
+        <card number="3" name="Crushing Canopy"/>
     </zone>
 </cockatrice_deck>
