@@ -26,7 +26,7 @@ Test</comments>
     <zone name="side">
         <card number="4" name="Crushing Canopy"/>
         <card number="4" name="Tocatli Honor Guard"/>
-        <card number="4" name="Duress"/>
-        <card number="3" name="Lay Bare the Heart"/>
+        <card number="3" name="Duress"/>
+        <card number="4" name="Shapers' Sanctuary"/>
     </zone>
 </cockatrice_deck>
