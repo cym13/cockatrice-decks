@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>RB - Rakdos Burn 2</deckname>
+    <comments>Modern
+
+Testing</comments>
+    <zone name="main">
+        <card number="4" name="Dash Hopes"/>
+        <card number="4" name="Vexing Devil"/>
+        <card number="4" name="Lightning Bolt"/>
+        <card number="4" name="Claim // Fame"/>
+        <card number="4" name="Bump in the Night"/>
+        <card number="4" name="Rift Bolt"/>
+        <card number="4" name="Goblin Guide"/>
+        <card number="4" name="Monastery Swiftspear"/>
+        <card number="4" name="Lava Spike"/>
+        <card number="4" name="Searing Blaze"/>
+        <card number="4" name="Ramunap Ruins"/>
+        <card number="4" name="Blackcleave Cliffs"/>
+        <card number="4" name="Blood Crypt"/>
+        <card number="4" name="Swamp"/>
+        <card number="4" name="Mountain"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Rain of Gore"/>
+        <card number="3" name="Harsh Mentor"/>
+        <card number="3" name="Doom Blade"/>
+        <card number="3" name="Rakdos Charm"/>
+        <card number="3" name="Rakdos's Return"/>
+    </zone>
+</cockatrice_deck>
