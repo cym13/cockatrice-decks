@@ -12,7 +12,6 @@ Test</comments>
         <card number="4" name="Drover of the Mighty"/>
         <card number="4" name="Unclaimed Territory"/>
         <card number="15" name="Forest"/>
-        <card number="3" name="Druid of the Cowl"/>
         <card number="4" name="Commune with Dinosaurs"/>
         <card number="4" name="Savage Stomp"/>
         <card number="2" name="Channeler Initiate"/>
@@ -21,12 +20,14 @@ Test</comments>
         <card number="1" name="Raging Swordtooth"/>
         <card number="3" name="Grazing Whiptail"/>
         <card number="1" name="Plains"/>
-        <card number="1" name="Swamp"/>
+        <card number="3" name="Druid of the Cowl"/>
+        <card number="1" name="Island"/>
     </zone>
     <zone name="side">
-        <card number="4" name="Crushing Canopy"/>
         <card number="4" name="Tocatli Honor Guard"/>
-        <card number="3" name="Duress"/>
-        <card number="4" name="Shapers' Sanctuary"/>
+        <card number="3" name="Abrade"/>
+        <card number="3" name="Negate"/>
+        <card number="2" name="Raging Swordtooth"/>
+        <card number="3" name="Cast Out"/>
     </zone>
 </cockatrice_deck>
