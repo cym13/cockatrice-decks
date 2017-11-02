@@ -7,22 +7,22 @@ Testing</comments>
     <zone name="main">
         <card number="4" name="Grasp of Darkness"/>
         <card number="4" name="Duress"/>
-        <card number="4" name="Distress"/>
         <card number="4" name="Quag Vampires"/>
         <card number="4" name="Evil Presence"/>
         <card number="4" name="Contaminated Ground"/>
         <card number="4" name="Sewer Shambler"/>
         <card number="4" name="Blistergrub"/>
         <card number="18" name="Swamp"/>
-        <card number="3" name="Mortuary Mire"/>
-        <card number="3" name="Doom Blade"/>
-        <card number="4" name="Dash Hopes"/>
+        <card number="4" name="Mortuary Mire"/>
+        <card number="4" name="Doom Blade"/>
+        <card number="4" name="Dismember"/>
+        <card number="2" name="Whispering Shade"/>
     </zone>
     <zone name="side">
-        <card number="3" name="Tragic Slip"/>
-        <card number="3" name="Last Gasp"/>
-        <card number="3" name="Scarab Feast"/>
-        <card number="3" name="Soul Stair Expedition"/>
         <card number="3" name="Nausea"/>
+        <card number="2" name="Distress"/>
+        <card number="3" name="Relic of Progenitus"/>
+        <card number="4" name="Raven's Crime"/>
+        <card number="3" name="Chainer's Edict"/>
     </zone>
 </cockatrice_deck>
