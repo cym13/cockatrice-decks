@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>RB - Sliver madness</deckname>
+    <comments>Pauper
+
+Testing</comments>
+    <zone name="main">
+        <card number="2" name="Bonesplitter Sliver"/>
+        <card number="4" name="Mindlash Sliver"/>
+        <card number="2" name="Crypt Sliver"/>
+        <card number="2" name="Clot Sliver"/>
+        <card number="4" name="Heart Sliver"/>
+        <card number="4" name="Homing Sliver"/>
+        <card number="4" name="Striking Sliver"/>
+        <card number="4" name="Lightning Bolt"/>
+        <card number="4" name="Fiery Temper"/>
+        <card number="4" name="Alms of the Vein"/>
+        <card number="4" name="Psychotic Episode"/>
+        <card number="4" name="Bloodfell Caves"/>
+        <card number="2" name="Sign in Blood"/>
+        <card number="7" name="Mountain"/>
+        <card number="7" name="Swamp"/>
+        <card number="2" name="Mind Stone"/>
+    </zone>
+</cockatrice_deck>
