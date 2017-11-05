@@ -10,7 +10,7 @@ Testing</comments>
         <card number="4" name="Mourning Thrull"/>
         <card number="4" name="Edge of the Divinity"/>
         <card number="4" name="Beckon Apparition"/>
-        <card number="4" name="Unmake"/>
+        <card number="2" name="Unmake"/>
         <card number="4" name="Castigate"/>
         <card number="4" name="Kingpin's Pet"/>
         <card number="4" name="Dismember"/>
@@ -20,13 +20,14 @@ Testing</comments>
         <card number="7" name="Swamp"/>
         <card number="6" name="Plains"/>
         <card number="3" name="Duress"/>
+        <card number="2" name="Read the Bones"/>
     </zone>
     <zone name="side">
         <card number="3" name="Relic of Progenitus"/>
         <card number="2" name="Cower in Fear"/>
         <card number="3" name="Fragmentize"/>
+        <card number="2" name="Doom Blade"/>
+        <card number="3" name="Mutagenic Growth"/>
         <card number="2" name="Raven's Crime"/>
-        <card number="2" name="Vessel of Ephemera"/>
-        <card number="3" name="Doom Blade"/>
     </zone>
 </cockatrice_deck>
