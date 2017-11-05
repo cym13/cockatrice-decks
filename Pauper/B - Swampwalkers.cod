@@ -10,14 +10,14 @@ Testing</comments>
         <card number="3" name="Evil Presence"/>
         <card number="3" name="Contaminated Ground"/>
         <card number="4" name="Sewer Shambler"/>
-        <card number="3" name="Blistergrub"/>
+        <card number="4" name="Blistergrub"/>
         <card number="19" name="Swamp"/>
         <card number="4" name="Mortuary Mire"/>
         <card number="4" name="Dismember"/>
         <card number="3" name="Whispering Shade"/>
         <card number="4" name="Distress"/>
         <card number="2" name="Tainted Well"/>
-        <card number="3" name="Sign in Blood"/>
+        <card number="2" name="Read the Bones"/>
     </zone>
     <zone name="side">
         <card number="3" name="Nausea"/>
