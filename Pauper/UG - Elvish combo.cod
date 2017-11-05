@@ -5,22 +5,22 @@
 
 Testing</comments>
     <zone name="side">
-        <card number="2" name="Aerie Ouphes"/>
+        <card number="1" name="Aerie Ouphes"/>
         <card number="3" name="Grazing Kelpie"/>
-        <card number="3" name="Hydroblast"/>
-        <card number="2" name="Vapor Snag"/>
+        <card number="2" name="Hydroblast"/>
         <card number="3" name="Relic of Progenitus"/>
-        <card number="2" name="Safehold Elite"/>
+        <card number="3" name="Mana Leak"/>
+        <card number="3" name="Fade Away"/>
     </zone>
     <zone name="main">
         <card number="4" name="Devoted Druid"/>
         <card number="4" name="Ivy Lane Denizen"/>
-        <card number="2" name="Presence of Gond"/>
+        <card number="4" name="Presence of Gond"/>
         <card number="4" name="Ponder"/>
         <card number="4" name="Counterspell"/>
-        <card number="4" name="Dispel"/>
+        <card number="3" name="Dispel"/>
         <card number="4" name="Brainstorm"/>
-        <card number="3" name="Preordain"/>
+        <card number="4" name="Preordain"/>
         <card number="4" name="Halimar Depths"/>
         <card number="4" name="Evolving Wilds"/>
         <card number="3" name="Lonely Sandbar"/>
@@ -28,7 +28,7 @@ Testing</comments>
         <card number="4" name="Forest"/>
         <card number="4" name="Simic Growth Chamber"/>
         <card number="2" name="Aerie Ouphes"/>
-        <card number="3" name="Viridian Longbow"/>
         <card number="3" name="Mulldrifter"/>
+        <card number="1" name="Muddle the Mixture"/>
     </zone>
 </cockatrice_deck>
