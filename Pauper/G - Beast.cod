@@ -8,26 +8,25 @@ Testing</comments>
         <card number="4" name="Wirewood Savage"/>
         <card number="4" name="Elvish Mystic"/>
         <card number="4" name="Llanowar Elves"/>
-        <card number="4" name="Blastoderm"/>
         <card number="4" name="Mold Shambler"/>
         <card number="4" name="Thresher Beast"/>
         <card number="3" name="Sheltering Word"/>
         <card number="3" name="Advocate of the Beast"/>
         <card number="3" name="Durkwood Baloth"/>
-        <card number="4" name="Fertile Thicket"/>
-        <card number="14" name="Forest"/>
+        <card number="3" name="Fertile Thicket"/>
+        <card number="15" name="Forest"/>
         <card number="3" name="Haunted Fengraf"/>
-        <card number="1" name="Berserk Murlodont"/>
         <card number="2" name="Horned Helm"/>
         <card number="2" name="Dismember"/>
         <card number="1" name="Cartouche of Strength"/>
+        <card number="4" name="Timbermaw Larva"/>
+        <card number="1" name="Barkhide Mauler"/>
     </zone>
     <zone name="side">
-        <card number="2" name="Berserk Murlodont"/>
-        <card number="3" name="Towering Indrik"/>
-        <card number="3" name="Root Greevil"/>
-        <card number="3" name="Bog Gnarr"/>
-        <card number="2" name="Fangren Marauder"/>
-        <card number="2" name="Dismember"/>
+        <card number="4" name="Towering Indrik"/>
+        <card number="2" name="Relic of Progenitus"/>
+        <card number="3" name="Rancor"/>
+        <card number="3" name="Larger Than Life"/>
+        <card number="3" name="Giant Growth"/>
     </zone>
 </cockatrice_deck>
