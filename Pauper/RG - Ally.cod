@@ -16,7 +16,7 @@ Testing</comments>
         <card number="4" name="Rugged Highlands"/>
         <card number="14" name="Mountain"/>
         <card number="6" name="Forest"/>
-        <card number="4" name="Rift Bolt"/>
+        <card number="4" name="Rancor"/>
     </zone>
     <zone name="side">
         <card number="3" name="Relic of Progenitus"/>
