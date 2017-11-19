@@ -6,28 +6,33 @@
 Testing</comments>
     <zone name="main">
         <card number="4" name="Exhume"/>
-        <card number="4" name="Bojuka Bog"/>
-        <card number="4" name="Evolving Wilds"/>
+        <card number="2" name="Bojuka Bog"/>
+        <card number="1" name="Evolving Wilds"/>
         <card number="3" name="Swamp"/>
-        <card number="2" name="Whispersilk Cloak"/>
         <card number="4" name="Striped Riverwinder"/>
         <card number="7" name="Island"/>
         <card number="4" name="Careful Study"/>
-        <card number="4" name="Counterspell"/>
+        <card number="3" name="Counterspell"/>
         <card number="3" name="Halimar Depths"/>
-        <card number="2" name="Dispel"/>
         <card number="4" name="Delver of Secrets"/>
         <card number="4" name="Ulamog's Crusher"/>
-        <card number="3" name="Disfigure"/>
         <card number="4" name="Ponder"/>
-        <card number="2" name="Vapor Snag"/>
-        <card number="3" name="Peer Through Depths"/>
+        <card number="3" name="Vapor Snag"/>
+        <card number="4" name="Dismal Backwater"/>
+        <card number="2" name="Muddle the Mixture"/>
+        <card number="3" name="Impulse"/>
+        <card number="2" name="Daze"/>
+        <card number="1" name="Gush"/>
+        <card number="2" name="Dismember"/>
     </zone>
     <zone name="side">
         <card number="3" name="Hydroblast"/>
-        <card number="2" name="Vapor Snag"/>
         <card number="2" name="Dispel"/>
-        <card number="4" name="Force Spike"/>
-        <card number="4" name="Beckon Apparition"/>
+        <card number="2" name="Beckon Apparition"/>
+        <card number="1" name="Muddle the Mixture"/>
+        <card number="2" name="Force Spike"/>
+        <card number="2" name="Whispersilk Cloak"/>
+        <card number="1" name="Counterspell"/>
+        <card number="2" name="Fade Away"/>
     </zone>
 </cockatrice_deck>
