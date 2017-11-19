@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>GW - Kor's forest</deckname>
+    <comments>Pauper
+
+Testing</comments>
+    <zone name="main">
+        <card number="3" name="Presence of Gond"/>
+        <card number="4" name="Midnight Guard"/>
+        <card number="2" name="Alchemist's Vial"/>
+        <card number="4" name="Kor Skyfisher"/>
+        <card number="4" name="Heliod's Pilgrim"/>
+        <card number="4" name="Squadron Hawk"/>
+        <card number="3" name="Journey to Nowhere"/>
+        <card number="1" name="Oblivion Ring"/>
+        <card number="2" name="Mana Tithe"/>
+        <card number="4" name="Lapse of Certainty"/>
+        <card number="1" name="Rancor"/>
+        <card number="1" name="Pentarch Ward"/>
+        <card number="4" name="Blossoming Sands"/>
+        <card number="3" name="Haunted Fengraf"/>
+        <card number="1" name="Forest"/>
+        <card number="10" name="Plains"/>
+        <card number="2" name="Selesnya Guildgate"/>
+        <card number="1" name="Pacifism"/>
+        <card number="4" name="Ash Barrens"/>
+        <card number="2" name="Thraben Inspector"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Oblivion Ring"/>
+        <card number="2" name="Change of Heart"/>
+        <card number="1" name="Sigil of the Nayan Gods"/>
+        <card number="1" name="Quiet Disrepair"/>
+        <card number="1" name="Lignify"/>
+        <card number="1" name="Faith's Fetters"/>
+        <card number="1" name="Detainment Spell"/>
+        <card number="1" name="Unbridled Growth"/>
+        <card number="2" name="Relic of Progenitus"/>
+        <card number="2" name="Benevolent Bodyguard"/>
+        <card number="1" name="Thraben Inspector"/>
+    </zone>
+</cockatrice_deck>
