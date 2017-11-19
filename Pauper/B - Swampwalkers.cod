@@ -15,9 +15,10 @@ Testing</comments>
         <card number="4" name="Mortuary Mire"/>
         <card number="4" name="Dismember"/>
         <card number="3" name="Whispering Shade"/>
-        <card number="4" name="Distress"/>
+        <card number="2" name="Distress"/>
         <card number="2" name="Tainted Well"/>
         <card number="2" name="Read the Bones"/>
+        <card number="2" name="Disfigure"/>
     </zone>
     <zone name="side">
         <card number="3" name="Nausea"/>
