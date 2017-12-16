@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Ubw - Prosperous pirates</deckname>
+    <comments>Pauper
+
+https://www.reddit.com/r/spikes/comments/7iy4e7/uolpauper_format_discussion_with_xln_and_ima/</comments>
+    <zone name="main">
+        <card number="1" name="Dinrova Horror"/>
+        <card number="2" name="God-Pharaoh's Gift"/>
+        <card number="3" name="Mnemonic Wall"/>
+        <card number="4" name="Mulldrifter"/>
+        <card number="2" name="Nightscape Familiar"/>
+        <card number="2" name="Prosperous Pirates"/>
+        <card number="4" name="Sea Gate Oracle"/>
+        <card number="4" name="Sunscape Familiar"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="4" name="Compulsive Research"/>
+        <card number="3" name="Evolving Wilds"/>
+        <card number="3" name="Ghostly Flicker"/>
+        <card number="4" name="Preordain"/>
+        <card number="1" name="Reaping the Graves"/>
+        <card number="4" name="Snap"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Tranquil Cove"/>
+        <card number="4" name="Ash Barrens"/>
+        <card number="3" name="Azorius Chancery"/>
+        <card number="3" name="Dimir Aqueduct"/>
+        <card number="5" name="Island"/>
+        <card number="1" name="Plains"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="God-Pharaoh's Gift"/>
+        <card number="1" name="Dispel"/>
+        <card number="2" name="Hoodwink"/>
+        <card number="2" name="Hydroblast"/>
+        <card number="1" name="Nightscape Familiar"/>
+        <card number="3" name="Spellstutter Sprite"/>
+        <card number="2" name="Stonehorn Dignitary"/>
+        <card number="2" name="Turn Aside"/>
+    </zone>
+</cockatrice_deck>
