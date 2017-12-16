@@ -29,14 +29,14 @@ Testing</comments>
     <zone name="side">
         <card number="2" name="Oblivion Ring"/>
         <card number="2" name="Change of Heart"/>
-        <card number="1" name="Sigil of the Nayan Gods"/>
         <card number="1" name="Quiet Disrepair"/>
         <card number="1" name="Lignify"/>
         <card number="1" name="Faith's Fetters"/>
         <card number="1" name="Detainment Spell"/>
-        <card number="1" name="Unbridled Growth"/>
         <card number="2" name="Relic of Progenitus"/>
         <card number="2" name="Benevolent Bodyguard"/>
-        <card number="1" name="Thraben Inspector"/>
+        <card number="1" name="Pacifism"/>
+        <card number="1" name="Angelic Renewal"/>
+        <card number="1" name="Abundant Growth"/>
     </zone>
 </cockatrice_deck>

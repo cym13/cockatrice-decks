@@ -11,7 +11,7 @@ Testing</comments>
         <card number="3" name="Swamp"/>
         <card number="4" name="Striped Riverwinder"/>
         <card number="7" name="Island"/>
-        <card number="4" name="Careful Study"/>
+        <card number="3" name="Careful Study"/>
         <card number="3" name="Counterspell"/>
         <card number="3" name="Halimar Depths"/>
         <card number="4" name="Delver of Secrets"/>
@@ -24,6 +24,7 @@ Testing</comments>
         <card number="2" name="Daze"/>
         <card number="1" name="Gush"/>
         <card number="2" name="Dismember"/>
+        <card number="1" name="Rites of Refusal"/>
     </zone>
     <zone name="side">
         <card number="3" name="Hydroblast"/>
@@ -33,6 +34,6 @@ Testing</comments>
         <card number="2" name="Force Spike"/>
         <card number="2" name="Whispersilk Cloak"/>
         <card number="1" name="Counterspell"/>
-        <card number="2" name="Fade Away"/>
+        <card number="2" name="Crypt Rats"/>
     </zone>
 </cockatrice_deck>

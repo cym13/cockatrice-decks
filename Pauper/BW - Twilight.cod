@@ -22,10 +22,13 @@ Testing</comments>
         <card number="2" name="Orzhov Guildgate"/>
     </zone>
     <zone name="side">
-        <card number="3" name="Relic of Progenitus"/>
+        <card number="2" name="Relic of Progenitus"/>
         <card number="3" name="Doom Blade"/>
-        <card number="3" name="Mutagenic Growth"/>
-        <card number="3" name="Cower in Fear"/>
-        <card number="3" name="Evil Presence"/>
+        <card number="2" name="Mutagenic Growth"/>
+        <card number="2" name="Cower in Fear"/>
+        <card number="2" name="Evil Presence"/>
+        <card number="1" name="Journey to Nowhere"/>
+        <card number="1" name="Oblivion Ring"/>
+        <card number="2" name="Mana Tithe"/>
     </zone>
 </cockatrice_deck>
