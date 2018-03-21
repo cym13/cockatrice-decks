@@ -19,21 +19,20 @@ Testing</comments>
         <card number="4" name="Ponder"/>
         <card number="3" name="Vapor Snag"/>
         <card number="4" name="Dismal Backwater"/>
-        <card number="2" name="Muddle the Mixture"/>
+        <card number="3" name="Muddle the Mixture"/>
         <card number="3" name="Impulse"/>
-        <card number="2" name="Daze"/>
-        <card number="1" name="Gush"/>
-        <card number="2" name="Dismember"/>
-        <card number="1" name="Rites of Refusal"/>
+        <card number="1" name="Chainer's Edict"/>
+        <card number="2" name="Rites of Refusal"/>
+        <card number="2" name="Disfigure"/>
     </zone>
     <zone name="side">
         <card number="3" name="Hydroblast"/>
         <card number="2" name="Dispel"/>
         <card number="2" name="Beckon Apparition"/>
-        <card number="1" name="Muddle the Mixture"/>
         <card number="2" name="Force Spike"/>
         <card number="2" name="Whispersilk Cloak"/>
         <card number="1" name="Counterspell"/>
         <card number="2" name="Crypt Rats"/>
+        <card number="1" name="Doom blade"/>
     </zone>
 </cockatrice_deck>

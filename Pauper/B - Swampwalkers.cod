@@ -13,7 +13,8 @@ Testing</comments>
         <card number="4" name="Blistergrub"/>
         <card number="19" name="Swamp"/>
         <card number="4" name="Mortuary Mire"/>
-        <card number="4" name="Dismember"/>
+        <card number="3" name="Disfigure"/>
+        <card number="1" name="Chainer's Edict"/>
         <card number="3" name="Whispering Shade"/>
         <card number="2" name="Distress"/>
         <card number="2" name="Tainted Well"/>
@@ -23,7 +24,8 @@ Testing</comments>
     <zone name="side">
         <card number="3" name="Nausea"/>
         <card number="3" name="Relic of Progenitus"/>
-        <card number="3" name="Doom Blade"/>
+        <card number="2" name="Doom Blade"/>
+        <card number="1" name="Chainer's Edict"/>
         <card number="3" name="Grasp of Darkness"/>
         <card number="3" name="Raven's Crime"/>
     </zone>
