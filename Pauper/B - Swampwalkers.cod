@@ -1,32 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
     <deckname>B - Swampwalkers</deckname>
-    <comments>Pauper
-
-Testing</comments>
+    <comments>Pauper</comments>
     <zone name="main">
-        <card number="4" name="Duress"/>
-        <card number="4" name="Quag Vampires"/>
-        <card number="3" name="Evil Presence"/>
-        <card number="3" name="Contaminated Ground"/>
-        <card number="4" name="Sewer Shambler"/>
-        <card number="4" name="Blistergrub"/>
-        <card number="19" name="Swamp"/>
-        <card number="4" name="Mortuary Mire"/>
-        <card number="3" name="Disfigure"/>
-        <card number="1" name="Chainer's Edict"/>
         <card number="3" name="Whispering Shade"/>
-        <card number="2" name="Distress"/>
-        <card number="2" name="Tainted Well"/>
-        <card number="2" name="Read the Bones"/>
-        <card number="2" name="Disfigure"/>
+        <card number="4" name="Dirtwater Wraith"/>
+        <card number="4" name="Evil Presence"/>
+        <card number="4" name="Dark Ritual"/>
+        <card number="4" name="Dusk Legion Zealot"/>
+        <card number="26" name="Swamp"/>
+        <card number="1" name="Phyresis"/>
+        <card number="4" name="Cuombajj Witches"/>
+        <card number="3" name="Tainted Well"/>
+        <card number="4" name="Culling the Weak"/>
+        <card number="2" name="Duress"/>
+        <card number="1" name="Tendrils of Corruption"/>
     </zone>
     <zone name="side">
-        <card number="3" name="Nausea"/>
-        <card number="3" name="Relic of Progenitus"/>
-        <card number="2" name="Doom Blade"/>
-        <card number="1" name="Chainer's Edict"/>
-        <card number="3" name="Grasp of Darkness"/>
-        <card number="3" name="Raven's Crime"/>
+        <card number="2" name="Neurok Stealthsuit"/>
+        <card number="2" name="Distress"/>
+        <card number="3" name="Beckon Apparition"/>
+        <card number="1" name="Tendrils of Corruption"/>
+        <card number="2" name="Murder"/>
+        <card number="3" name="Crypt Rats"/>
+        <card number="2" name="Geth's Verdict"/>
     </zone>
 </cockatrice_deck>
